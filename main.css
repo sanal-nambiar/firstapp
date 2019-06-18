@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+p,blockquote {
+    font-size: 0.8em;
+}
+ul {
+    list-style:none;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
